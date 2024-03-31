@@ -188,7 +188,7 @@ corresponds to the command line::
 
    bcftools reheader -s samples.txt -o out.vcf.gz in.vcf.gz
 
-If the `catch_stdout=False`_ option is not specified, then the output of the
+If the ``catch_stdout=False`` option is not specified, then the output of the
 `bcftools`_ command will be returned as a variable
 
 ================================
