@@ -176,8 +176,8 @@ commands through subprocess.
 Using bcftools commands within python
 =====================================
 
-Commands available in `bcftools`_ are also available as simple
-function calls, but they are invoked slightly differently from `samtools`_.
+Commands available in `bcftools <https://samtools.github.io/bcftools/>`_ are also available as simple
+function calls, but they are invoked slightly differently from `samtools <https://www.htslib.org>`_.
 Command line options are also provided as arguments. For
 example::
 
