@@ -189,7 +189,7 @@ corresponds to the command line::
    bcftools reheader -s samples.txt -o out.vcf.gz in.vcf.gz
 
 If the ``catch_stdout=False`` option is not specified, then the output of the
-`bcftools`_ command will be returned as a variable
+`bcftools <https://samtools.github.io/bcftools/>`_ command will be returned as a variable
 
 ================================
 Working with tabix-indexed files
